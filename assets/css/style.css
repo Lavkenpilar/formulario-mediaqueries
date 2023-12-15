@@ -7,3 +7,10 @@
 .filtros div {
     margin-bottom: 30px;
 }
+@media (min-width: 576px) {
+    .filtros {
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
+

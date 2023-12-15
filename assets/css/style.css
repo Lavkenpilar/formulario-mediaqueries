@@ -1,0 +1,9 @@
+.filtros {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.filtros div {
+    margin-bottom: 30px;
+}
